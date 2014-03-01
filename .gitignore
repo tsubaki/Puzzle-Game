@@ -6,8 +6,3 @@
 *.csproj
 *.unityproj
 *.sln
-ios build
-android.apk
-*.test-cache
-noodledefence.userprefs
-noodlediffence.userprefs
